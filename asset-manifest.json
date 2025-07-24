@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.168cafba.chunk.css",
-    "main.js": "/portfolio/static/js/main.104a842a.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.104a842a.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.888ae96f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.888ae96f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c90726de.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c90726de.js.map",
-    "static/js/2.65a680de.chunk.js": "/portfolio/static/js/2.65a680de.chunk.js",
-    "static/js/2.65a680de.chunk.js.map": "/portfolio/static/js/2.65a680de.chunk.js.map",
+    "static/js/2.5ce6fc5f.chunk.js": "/portfolio/static/js/2.5ce6fc5f.chunk.js",
+    "static/js/2.5ce6fc5f.chunk.js.map": "/portfolio/static/js/2.5ce6fc5f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.cb8a19d126b18d1cec9a0a6bec139be0.js": "/portfolio/precache-manifest.cb8a19d126b18d1cec9a0a6bec139be0.js",
+    "precache-manifest.18b1cd4a0bf17c3965553a0d97d383bc.js": "/portfolio/precache-manifest.18b1cd4a0bf17c3965553a0d97d383bc.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.168cafba.chunk.css.map": "/portfolio/static/css/main.168cafba.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Knovos_logo.svg": "/portfolio/static/media/Knovos_logo.ad5b69d5.svg",
     "static/media/SP_University_logo.png": "/portfolio/static/media/SP_University_logo.90c4acf0.png",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
@@ -31,8 +32,11 @@
     "static/media/fullstack.svg": "/portfolio/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/portfolio/static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "/portfolio/static/media/github_logo.6eeb2e81.png",
+    "static/media/gmm_logo.svg": "/portfolio/static/media/gmm_logo.5dbbc768.svg",
     "static/media/googleAssistant.jpg": "/portfolio/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/portfolio/static/media/googleAssistant.a6addc3f.svg",
+    "static/media/guj_infotech.png": "/portfolio/static/media/guj_infotech.cf2410cd.png",
+    "static/media/guj_infotech_3.png": "/portfolio/static/media/guj_infotech_3.7a408509.png",
     "static/media/ibm_logo.png": "/portfolio/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/portfolio/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/portfolio/static/media/intel_logo.29152cf7.jpg",
@@ -54,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c90726de.js",
-    "static/js/2.65a680de.chunk.js",
+    "static/js/2.5ce6fc5f.chunk.js",
     "static/css/main.168cafba.chunk.css",
-    "static/js/main.104a842a.chunk.js"
+    "static/js/main.888ae96f.chunk.js"
   ]
 }
