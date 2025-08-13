@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.168cafba.chunk.css",
-    "main.js": "/portfolio/static/js/main.d6cee635.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d6cee635.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.4c2ff137.chunk.css",
+    "main.js": "/portfolio/static/js/main.0c951be2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0c951be2.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c90726de.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c90726de.js.map",
     "static/js/2.e096ece9.chunk.js": "/portfolio/static/js/2.e096ece9.chunk.js",
     "static/js/2.e096ece9.chunk.js.map": "/portfolio/static/js/2.e096ece9.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.fe8769ad04b8a8d4e347d808538cbc1d.js": "/portfolio/precache-manifest.fe8769ad04b8a8d4e347d808538cbc1d.js",
+    "precache-manifest.ce0ee3e00456eef2d4d4baf71aa27dda.js": "/portfolio/precache-manifest.ce0ee3e00456eef2d4d4baf71aa27dda.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.168cafba.chunk.css.map": "/portfolio/static/css/main.168cafba.chunk.css.map",
+    "static/css/main.4c2ff137.chunk.css.map": "/portfolio/static/css/main.4c2ff137.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Knovos_logo.svg": "/portfolio/static/media/Knovos_logo.ad5b69d5.svg",
     "static/media/SP_University_logo.png": "/portfolio/static/media/SP_University_logo.90c4acf0.png",
@@ -61,7 +61,7 @@
   "entrypoints": [
     "static/js/runtime-main.c90726de.js",
     "static/js/2.e096ece9.chunk.js",
-    "static/css/main.168cafba.chunk.css",
-    "static/js/main.d6cee635.chunk.js"
+    "static/css/main.4c2ff137.chunk.css",
+    "static/js/main.0c951be2.chunk.js"
   ]
 }
